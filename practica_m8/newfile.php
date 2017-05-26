@@ -13,7 +13,7 @@ class LoginController extends Controller {
 		include ("views/login.tpl.php");
 	}
 	
-	// esto es un cambio
+	
 	public function validar(){
 		include("bootstrap.php");
 		
