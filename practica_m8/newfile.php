@@ -13,8 +13,8 @@ class LoginController extends Controller {
 		include ("views/login.tpl.php");
 	}
 	
-	// modificacion en el master
-	public function validar(){
+	// conflictoo
+	public function Conflicto(){
 		include("bootstrap.php");
 		
 		// agregar en el model para la mac y para el correo
